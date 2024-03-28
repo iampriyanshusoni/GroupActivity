@@ -1,0 +1,5 @@
+def calculate_rectangle_area(width, height): 
+    if width > 0 and height > 0: 
+        return width * height
+    else:
+        return 0
