@@ -1,0 +1,12 @@
+# If we need to calculate the area of SQUARE in py then we need to know the length of one side of the square.
+
+# Then
+# Area = length*length
+
+# def square_area(side_length):
+#    area = side_length * side_length
+#    return area
+
+# Example usage:
+# side_length = 5
+# print("Area of the square with side length", side_length, "is:", square_area(side_length))
